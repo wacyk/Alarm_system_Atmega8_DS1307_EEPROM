@@ -1,0 +1,14 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA8A -DL -SSA -O11111115 -fo8 -N"D:\prjcts\zvonilka\123.mcpav" -BOOTSZ1024 -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"D:\prjcts\zvonilka\" "123.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC.mcl" "__Lib_EEPROM_eew.mcl" "__Lib_FLASH_rwe.mcl" "__Lib_PWM16bit_12.mcl" "__Lib_SPI_b5432_x2.mcl" "__Lib_TWI.mcl" "__Lib_UART_d01_ursel.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Mmc.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_TFT.mcl" "__Lib_TouchPanel_TFT.mcl" "__Lib_TouchPanel.mcl"	 
+diagnostics: 0	126	All files Preprocessed in 171 ms	 
+diagnostics: 0	122	Compilation Started	123.c
+warning: 136	1503	Result is not defined in function: 'EEP_write'	123.c
+warning: 319	1503	Result is not defined in function: 'change_item_core'	123.c
+diagnostics: 499	123	Compiled Successfully	123.c
+diagnostics: 0	127	All files Compiled in 827 ms	 
+hint: 0	1144	Used RX (bytes): 18 (56%)   Free RX (bytes): 14 (44%)	Used RX (bytes): 18 (56%)   Free RX (bytes): 14 (44%)
+hint: 0	1144	Static RAM (bytes): 315   Dynamic RAM (bytes): 709	Static RAM (bytes): 315   Dynamic RAM (bytes): 709
+hint: 0	1144	Used ROM (bytes): 5247 (85%)  Free ROM (bytes): 897 (15%)	Used ROM (bytes): 5247 (85%)  Free ROM (bytes): 897 (15%)
+diagnostics: 0	125	Project Linked Successfully	123.mcpav
+diagnostics: 0	128	Linked in 421 ms	 
+diagnostics: 0	129	Project '123.mcpav' completed: 1529 ms	 
+diagnostics: 0	103	Finished successfully: 20 θών 2015, 11:04:04	123.mcpav
